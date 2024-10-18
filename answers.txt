@@ -1,0 +1,9 @@
+Part 1: Write your message here from GitHub
+Hello Gabby! This is a message
+
+Task 1: 
+git fetch downloads the latest changes from the remote repository but doesn’t merge them into your local branch. It updates your view of remote branches. You need to manually merge or checkout to see the changes in your working directory.
+
+Task 2:
+Git is a version control system for tracking changes in code. Github is a cloud-based platform that hosts Git repositories, allowing collaboration and sharing of code online.
+
